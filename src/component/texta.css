@@ -1,0 +1,39 @@
+.con1{
+    color: white;
+    
+    text-align: center;
+}
+h1{
+    font-size: 64px;
+
+}
+h2{
+    font-size: 28px;
+}
+h3{
+    font-size: 20px;
+}
+.con2{
+    color: white;
+    text-align: center;
+    
+}
+.con3{
+    color: white;
+    text-align: center;
+    
+    margin-top: 3vh;
+}
+.con4{
+    margin-top: 3vh;
+}
+.form-control{
+    width:33vw;
+    height: 10vh;
+}
+.btn2{
+    width: 15vw;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+}

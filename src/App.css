@@ -1,0 +1,95 @@
+
+
+.cont1{
+  
+  height: 97vh;
+  width: 100vw;
+  background-image: url("background.png");
+  
+ 
+  
+  
+}
+.cont1p{
+  display: flex;
+}
+
+.cont2{
+  height: 15vh;
+  width: 15vw;
+}
+.cont2p{
+  margin-left: 65vw;
+  margin-top: 3vh;
+}
+.cont2 img{
+  height: 15vh;
+  width: 15vw;
+}
+.btn1{
+background-color: rgba(252, 252, 252, 0);
+border: white solid 2px;
+color: white;
+border-radius: 4px;
+height: 6vh;
+width: 7vw;
+
+
+}
+.cont3{
+ height: 50vh;
+ width: 50vw;
+ margin-top: 15vh;
+}
+.cont4{
+  width: 83vw;
+  margin-left: 6vw;
+
+  display: flex;
+  justify-content:space-around;
+ }
+ .check1{
+  height: 56vh;
+  width: 100vw;
+  margin-top: 1.3vh;
+  background-color: black;
+
+ }
+.ch2{
+  width: 55vw;
+  text-align: center;
+  padding-top: 8vh;
+  
+
+}
+.ch2 h1{
+  font-size: 3.125rem;
+  color: white;
+}
+.check2{
+  background-color: black;
+  width: 100vw;
+  height: 136vh;
+  margin-top: 1.3vh;
+}
+.ch3{
+  height: 50vh;
+  width: 60vw;
+  margin-top: 5vh;
+}
+.ch4{
+  margin-top: 44vh;
+}
+.check3{
+  width: 65vw;
+  height: 50vh;
+  padding-top: 4vw;
+  
+  
+}
+.ch{
+  width: 100vw;
+  height: 50vh;
+  background-color: black;
+  margin-top: 1.3vh;
+}

@@ -1,0 +1,26 @@
+.accordion-button{
+    background-color: #252424;
+    color: white;
+    font-size: 1.625rem;
+}
+.accordion-collapse{
+    background-color: #252424;
+    color: white;
+}
+.accordion-header{
+    background-color: #252424;
+    color: white;
+}
+.accordion-item{
+    background-color: #252424;
+    color: white;
+    margin-top: 1.5vh;
+    
+    
+}
+
+.accordion-body{
+    background-color: #252424;
+    color: white;
+    font-size: 1.625rem;
+}
